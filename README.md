@@ -1,11 +1,13 @@
-# Catalogue of Archival Resilience
+# IMD
 
 [Assignments](IMD/Assignments.csv)
+
+![IMD/Untitled.png](IMD/Untitled.png)
 
 - How does the the medium open up another avenue through transcoding?
 - Representation of the sculpture / replica?
 
-![IMD/Untitled.png](IMD/Untitled.png)
+![IMD/Untitled%201.png](IMD/Untitled%201.png)
 
 [Negative (photography)](https://en.wikipedia.org/wiki/Negative_(photography))
 
@@ -15,7 +17,7 @@
 
 [Photographic processing](https://en.wikipedia.org/wiki/Photographic_processing)
 
-![IMD/Untitled%201.png](IMD/Untitled%201.png)
+![IMD/Untitled%202.png](IMD/Untitled%202.png)
 
 [Transcoding ideas](IMD/Transcoding%20ideas.csv)
 
@@ -44,9 +46,9 @@
 
 Pioneers 10 and 11, which preceded Voyager, both carried small metal plaques identifying their time and place of origin for the benefit of any other spacefarers that might find them in the distant future. With this example before them, NASA placed a more ambitious message aboard Voyager 1 and 2, a kind of time capsule, intended to communicate a story of our world to extraterrestrials. The Voyager message is carried by a phonograph record, a 12-inch gold-plated copper disk containing sounds and images selected to portray the diversity of life and culture on Earth.
 
-![IMD/Untitled%202.png](IMD/Untitled%202.png)
-
 ![IMD/Untitled%203.png](IMD/Untitled%203.png)
+
+![IMD/Untitled%204.png](IMD/Untitled%204.png)
 
 [Printing method](IMD/Printing%20method.md)
 
