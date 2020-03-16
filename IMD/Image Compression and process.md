@@ -1,0 +1,3 @@
+# Image Compression and process
+
+It is possible to compress many types of digital data in a way that reduces the size of a computer file needed to store it, or the bandwidth needed to transmit it, with no loss of the full information contained in the original file. A picture, for example, is converted to a digital file by considering it to be an array of dots and specifying the color and brightness of each dot. **If the picture contains an area of the same color, it can be compressed without loss by saying "200 red dots" instead of "red dot, red dot, ...(197 more times)..., red dot."**
