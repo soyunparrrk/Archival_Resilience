@@ -18,13 +18,18 @@
 Taken in 1952 June, the Artefact is a photograph depicting a woman investigating data coming out of ARRA, the oldest computer known in The Netherlands. 
 
 ## **Metadata**
+| Tag                                                                                                                            | Data                                                                                                                                                                                                                                              |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IISG Call Number                                                                                                               | IISG BG B28/625                                                                                                                                                                                                                                   |
+| Physical Description                                                                                                           | Photograph                                                                                                                                                                                                                                        |
+| Type                                                                                                                           | Visual Document                                                                                                                                                                                                                                   |
+| Medium                                                                                                                         | Photograph                                                                                                                                                                                                                                        |
+| Materials                                                                                                                      | Photo Paper                                                                                                                                                                                                                                       |
+| Date                                                                                                                           | 1952, 18 June                                                                                                                                                                                                                                     |
+| ![Artefact](https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg) | A black and white photograph of a woman in white blouse and dotted A-shaped skirt is looking at paper with data coming out of the first Dutch programmable computer: the 'ARRA', Automatic Relay Calculator Amsterdam in the Mathematical Center. |
 
-[Untitled](The%20Computing%20Girls%20Today/Untitled%20Database.csv)
 
 # **Research**
-
----
-
 ## The History of Women in Coding
 
 When one of the first computers in the human history were being operated during World War II, coding and programming were known as the work for people who possesses 'picky and precise' mentality. [#] Unlike the stereotypes of programmers in the current society, back then these people were assumed to be women. While it wasn't high-status work yet, the women were involved in mathematical calculations to execute instructions which we can define it as 'programming' in these current times. 
