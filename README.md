@@ -117,7 +117,7 @@ Several personal decisions had been made in this process.
 
 2. **Binary to Image**
 
-![Computational%20Women/Untitled%203.png](The%20Computing%20Girls%20Today/Untitled%203.png)
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/Untitled%203.png">
 
 ## Transcoding 2: Node-based Pixel Sorter
 
