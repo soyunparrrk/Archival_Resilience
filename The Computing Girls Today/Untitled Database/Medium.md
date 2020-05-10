@@ -1,3 +1,0 @@
-# Medium
-
-Data: Photograph

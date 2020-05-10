@@ -1,3 +1,0 @@
-# Physical Description
-
-Data: Photograph

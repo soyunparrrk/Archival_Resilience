@@ -1,3 +1,0 @@
-# Type
-
-Data: Visual Document
