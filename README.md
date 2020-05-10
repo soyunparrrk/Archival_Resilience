@@ -40,7 +40,7 @@ In 1960, the proportion of women in computing and mathematical professions was 2
 
 Eddy Alleda, Dineke Botterweg, Ria Debets, Marijke de Jong, Bertha Haanappel, Emmy Hagenaar, Truus Hurts, Loes Kaarsenmaker, Corrie Langereis, Reina Mulder, Diny Postema and Trees Scheffer formed a group called the Computing Girls in the Netherlands. [#] As they had completed high school with high grades in mathematics, they were considered suitable for computation works.
 
-![Computational%20Women/computinggirls-1986.jpg](The%20Computing%20Girls%20Today/computinggirls-1986.jpg)
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg">
 
 Some of the Computing Girls at a reunion in 1986. From left to right: Truus Hurts, Dineke Botterweg, Bertha Haanappel, Eddy Alleda
 
@@ -50,11 +50,11 @@ They worked at the Mathematical centre programming early Dutch computers such as
 
 Throughout the history, there are many legendary women mathematicians and programmers who highly contributed in development of technology. Ada Lovelace, Grace Hopper, Evelyn Boyd Granville, Sister Mary Kenneth Keller, Radia Perlman are a few examples from them. 
 
-![Computational%20Women/grace_hopper.png](The%20Computing%20Girls%20Today/grace_hopper.png)
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/grace_hopper.png">
 
 Grace Hopper, an American computer scientist born in New York in 1906. She was one of the first programmers of the Harvard Mark 1 computer. She also popularised the idea of machine-independent programming languages such as COBOL, an early programming language we still use today.
 
-![Computational%20Women/17mag-coders-pics-slide-LN0P-superJumbo.png](The%20Computing%20Girls%20Today/17mag-coders-pics-slide-LN0P-superJumbo.png)
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/17mag-coders-pics-slide-LN0P-superJumbo.png" width=70%>
 
 A mathematician Ada Lovelace from England is known as the first coder in history. In 1833, she wrote an algorithm with which the Analytical engine, a design to execute if/then commands invented by Charles Babbage, would calculate the Bernoulli sequence of numbers. 
 
@@ -70,7 +70,7 @@ Since the artefact is a little sheet of physical photograph, first I looked into
 
 **And back to the physical world again:** What kind of methods are available for digital printing? What does it mean to re-print the original photograph? What kind of decisions are made during that process — The paper size? Which printing method (Inkjet? Laser? Gelatine Silver? Photogravure?...)? Colour or B&W(even though the original is B&W)? Fill or centre the image? What kind of paper? 
 
-![Computational%20Women/5FE08566-F7BC-4F1C-900D-0E50EAE6C6D3.jpeg](The%20Computing%20Girls%20Today/5FE08566-F7BC-4F1C-900D-0E50EAE6C6D3.jpeg)
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/5FE08566-F7BC-4F1C-900D-0E50EAE6C6D3.jpeg" width="80%">
 
 A sketch for understanding the process of taking photographs and turning them into digital files.
 
@@ -88,9 +88,10 @@ This photograph is not only capturing a historical memory but also cultural disc
 
 In image compression, there are several methods for lossless compression.
 
-![Computational%20Women/Untitled.png](The%20Computing%20Girls%20Today/Untitled.png)
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/image_compression.png">
 
-The demonstration of RLE compression in real life [https://classic.csunplugged.org/image-representation/](https://classic.csunplugged.org/image-representation/)
+The demonstration of RLE compression in real life
+[https://classic.csunplugged.org/image-representation/](https://classic.csunplugged.org/image-representation/)
 
 ### **Tools**
 
@@ -114,7 +115,7 @@ Several personal decisions had been made in this process.
 
 1. **Image to Binary**
 
-    The original text can be found below.
+    The original text can be found below. (warning: very long text)
 
     [Image to Binary](The%20Computing%20Girls%20Today/Image%20to%20Binary.md)
 
