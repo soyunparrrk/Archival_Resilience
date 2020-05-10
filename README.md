@@ -1,4 +1,4 @@
-![image](https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif)
+![image](https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif)
 
 # **The Computing Girls Today**
 
