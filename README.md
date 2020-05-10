@@ -2,10 +2,10 @@
 # The Computing Girls Today
 
 ### Table of Contents
-1. [Artefact] (#artefact)
-    1. [Metadata] (#metadata)
-2. [Research] (#research)
-3. [Transcoding] (#transcoding)
+1. [Artefact](#artefact)
+    1. [Metadata](#metadata)
+2. [Research](#research)
+3. [Transcoding](#transcoding)
     1. Transcoding No. 1
     2. Transcoding Tool
 4. Reflection
@@ -13,11 +13,11 @@
 6. Conclusion
 7. Bibliography
 
-# **Artefact**
+# Artefact
 
 Taken in 1952 June, the Artefact is a photograph depicting a woman investigating data coming out of ARRA, the oldest computer known in The Netherlands. 
 
-## **Metadata**
+## Metadata
 | Tag                                                                                                                            | Data                                                                                                                                                                                                                                              |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | IISG Call Number                                                                                                               | IISG BG B28/625                                                                                                                                                                                                                                   |
