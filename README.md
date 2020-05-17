@@ -7,7 +7,7 @@
 2. [Research](#research)
 3. [Transcoding](#transcoding)
     1. Transcoding 1: Lossless Compression
-    2. Transcoding 2: Node-based Pixel Sorter
+    2. Transcoding Tool: ARRA Today
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
 6. [Conclusion](#conclusion)
@@ -29,7 +29,7 @@ Taken in 1952 June, the Artefact is a photograph depicting a woman investigating
 | ![Artefact](https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg) | A black and white photograph of a woman in white blouse and dotted A-shaped skirt is looking at paper with data coming out of the first Dutch programmable computer: the 'ARRA', Automatic Relay Calculator Amsterdam in the Mathematical Center. |
 
 
-# **Research**
+# Research
 ## The History of Women in Coding
 
 When one of the first computers in the human history were being operated during World War II, coding and programming were known as the work for people who possesses 'picky and precise' mentality. [#] Unlike the stereotypes of programmers in the current society, back then these people were assumed to be women. While it wasn't high-status work yet, the women were involved in mathematical calculations to execute instructions which we can define it as 'programming' in these current times. 
@@ -76,7 +76,7 @@ A sketch for understanding the process of taking photographs and turning them in
 
 # Transcoding
 
-My transcoding project has been ongoing through the question of 'how do I translate this historical photograph relating to this current time?'. 
+Description
 
 ## Transcoding 1: Lossless Compression
 
@@ -103,12 +103,6 @@ I've used two existing tools for this, the first one is Image → Binary, the ot
 
 (2) [https://onlinebinarytools.com/convert-binary-to-image](https://onlinebinarytools.com/convert-binary-to-image)
 
-Several personal decisions had been made in this process.
-
-1. Since the image is large I had to specify the customised resolution. 
-2. 50% threshold was recommended as default.
-3. Binary characters to display.
-
 ### Results
 
 1. **Image to Binary**<br>
@@ -119,48 +113,39 @@ Several personal decisions had been made in this process.
 
 <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/Untitled%203.png">
 
-## Transcoding 2: Node-based Pixel Sorter
+Several personal decisions had been made in this process.
+
+1. Since the image is large I had to specify the customised resolution. 
+2. 50% threshold was recommended as default.
+3. Binary characters to display.
+
+
+## Transcoding Tool: ARRA Today
 
 ### Description
 
-Short description here. You can structure the information and documentation for each transcoding, design research or coding tool as you like. It's important that you make clear the aims & goals of the transcoding, what methods and tools you use. If this is often the same across different transcodings, consider making a standardised table at the beginning of each.
+Despite the effort of programmers and creators, unfortunately, the ARRA I couldn't operate for long. It only worked once in front of the mayor of Amsterdam producing a single, correct line of data. The women programmers continued to work for ARRA II, however, the majority of them got married which means they were expected to choose to devote their life to their family.
 
-You should include well-formatted documentation of your experiments and developments below. Someone without previous knowledge about your work should be able to follow along the steps, aims and results of your developments from this structure. Make sure all media used is correctly linked or embedded (images, PDFs, Videos, etc).
+This process of ARRA's short life and death made me think of the ephemeral history of women in computation being left only as a short period for a long time until now.
 
-### Methods
-
-Description of your methods, documentation of behind-the-scenes processes can go here. Think of the photos and videos you made when visiting the IISG or during captures of your artefact. You can use tools such as [Gifs.com](https://gifs.com/) to generate moving-image thumbnail to link to short videos.Just enough to give a clear overview, before getting into details.
-
-With some HTML tags you can do simple styling in markdown, for example:
-
-```
-<width="50%">
-
-```
-
-Remember to include the url link to jump to the full media, of course!
-
-### Tools
-
-Mention the tools that you used or made (if and when relevant).
-
-### Results
-
-Some of your transcoding experiments may have smaller outcome sketches like images or short video tests. They can go directly within this section. Or maybe this transcoding became a part of the final outcome format. When that is the case, you can simply include a [hyperlink](https://github.com/IMD-Y3-2020/Example#) to the final outcomes in the **Transcoding** section. In the final outcome section below you can embed or explain the final format outcome in detail.
-
-## Transcoding Tool
-
-### Description
-
-You might have made multiple coding tools during the semester. Or the transcoding tool might be part of a specific transcoding experiment itself. It's up to you to define the linear flow of the Readme. Just like the transcoding of media itself, the coding tool should be well documented. So if you are using a coding tool in your first experiment, include the documentation of the coding tool **before** you include the results, etc.
+Looking at the photograph of the huge machine that this programmer is checking an outcome from, I thought, what if, I build the ARRA again, as a female programmer myself. What if I program it to work as a revival of the historical moment — preserving the important visual form of the photograph, which depicts a woman next to a machine. 
+<img src="">
 
 ### Aims
 
-Include the main aims or intentions behind making the tool, and what it is used for.
+The ARRA contained 1200 relays connected at the back of the machine. Also, with drum memory it could execute the 16 coded instructions. It was able to represent binary numbers as decimal, using a paper punch tap reader and a teleprinter as input and output. 
+
+For this transcoding, I aimed to recreate the ARRA  for today. It will enable image processing that users can insert their photos and make outputs by manipulating the images themselves. The way of image processing will reflect my whole research through this subject. By users re-creating their own images and videos digitally sorting pixels and pixels, I wish it continues to live for proliferation.
 
 ### Methods
 
-This includes the coding languages, coding frameworks or libraries, and any platforms or webtools for example.
+I've programmed in a node-based software TouchDesigner using a visual language of wiring, connecting from commands to commands.<br>
+<img src="The%2520Computing%2520Girls%2520Today/TD-example.jpg"><br>
+As you see above, TouchDesigner requires wiring operators to make the software you program run. I find the visual representation of connecting parts to excecute the program is very similar to the physical parts being connected at the ARRA machine with wires and electrictity.
+
+### Tools
+
+
 
 ### Results
 
