@@ -26,21 +26,22 @@ Taken in 1952 June, the Artefact is a photograph depicting a woman investigating
 | Medium                                                                                                                         | Photograph                                                                                                                                                                                                                                        |
 | Materials                                                                                                                      | Photo Paper                                                                                                                                                                                                                                       |
 | Date                                                                                                                           | 1952, 18 June                                                                                                                                                                                                                                     |
-| ![Artefact](https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg) | A black and white photograph of a woman in white blouse and dotted A-shaped skirt is looking at paper with data coming out of the first Dutch programmable computer: the 'ARRA', Automatic Relay Calculator Amsterdam in the Mathematical Center. |
+| <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg"></a>| A black and white photograph of a woman in white blouse and dotted A-shaped skirt is looking at paper with data coming out of the first Dutch programmable computer: the 'ARRA', Automatic Relay Calculator Amsterdam in the Mathematical Center. |
 
 
 # Research
 ## The History of Women in Coding
 
-When one of the first computers in the human history were being operated during World War II, coding and programming were known as the work for people who possesses 'picky and precise' mentality. [#] Unlike the stereotypes of programmers in the current society, back then these people were assumed to be women. While it wasn't high-status work yet, the women were involved in mathematical calculations to execute instructions which we can define it as 'programming' in these current times. 
+When one of the first computers in the human history were being operated during World War II, coding and programming were known as the work for people who possesses 'picky and precise' mentality. [1](#bibliography) Unlike the stereotypes of programmers in the current society, back then these people were assumed to be women. While it wasn't high-status work yet, the women were involved in mathematical calculations to execute instructions which we can define it as 'programming' in these current times. 
 
 In 1960, the proportion of women in computing and mathematical professions was 27 percent in the United States. It reached the peak to 35 percent in 1990, but the numbers fell to 26 percent in 2013 which is below the percentage in 1960. Not only the number figures but also the culture and the societal view have been dramatically changed. Even now in 2020, programming is assumed to be 'men's job — as it needs precision, mathematical abilities, problem-solving skills which are not considered as women's major characteristics. 
 
 ### "Computing Girls"
 
-Eddy Alleda, Dineke Botterweg, Ria Debets, Marijke de Jong, Bertha Haanappel, Emmy Hagenaar, Truus Hurts, Loes Kaarsenmaker, Corrie Langereis, Reina Mulder, Diny Postema and Trees Scheffer formed a group called the Computing Girls in the Netherlands. [#] As they had completed high school with high grades in mathematics, they were considered suitable for computation works.
+Eddy Alleda, Dineke Botterweg, Ria Debets, Marijke de Jong, Bertha Haanappel, Emmy Hagenaar, Truus Hurts, Loes Kaarsenmaker, Corrie Langereis, Reina Mulder, Diny Postema and Trees Scheffer formed a group called the Computing Girls in the Netherlands. [2](#bibliography) As they had completed high school with high grades in mathematics, they were considered suitable for computation works.
 
-<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg">
+<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg">
+</a>
 
 Some of the Computing Girls at a reunion in 1986. From left to right: Truus Hurts, Dineke Botterweg, Bertha Haanappel, Eddy Alleda
 
@@ -76,7 +77,7 @@ A sketch for understanding the process of taking photographs and turning them in
 
 # Transcoding
 
-Description
+How do I bring this artefact to today upholding the historical discourses around it and reflecting a creative interpretation as a designer?
 
 ## Transcoding 1: Lossless Compression
 
@@ -139,7 +140,7 @@ For this transcoding, I aimed to recreate the machine  for today. It will enable
 ### Methods
 
 I've programmed in a node-based software TouchDesigner using a visual language of wiring, connecting from commands to commands.<br><br>
-<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-example.jpg"><br><br>
+<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-example.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-example.jpg"></a><br><br>
 As you see above, TouchDesigner requires wiring operators to make the software you program run. I find the visual representation of connecting parts to excecute the program is very similar to the physical parts being connected at the ARRA machine with wires and electrictity.
 
 ### Tools
@@ -147,7 +148,7 @@ As you see above, TouchDesigner requires wiring operators to make the software y
 
 **The Computing Girls Today**, a virtual machine programmed and visualised in TouchDesigner. <br><br>
 
-<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg">
+<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg"></a>
 
 **Introduction message in Python:**
 
@@ -168,16 +169,34 @@ As you see above, TouchDesigner requires wiring operators to make the software y
 > Understand the process behind it. 
 > Save, export and share your new photo with your friends!
 
+<br>
+<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"></a><br><br>
+**The UI of the machine**
+
+The UI includes 3 parameters that user can manipulate. Wind Horizontal, Wind Vertical and Shake. The Reset button will clear the previous effect. All of them simulates physical manipulation to the input photo.
+<br><br>
+<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg"></a>
+<br><br>
+**Inside the UI**: the three parameters
+
+| Zoom into one of the parameters                                                                                                  | The logic and math inside of the parameter                                                                                       |
+|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-3.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-3.jpg"></a> | <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-4.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-4.jpg"></a> |
 
 ### Results
 
-<a href="https://youtu.be/qLSy3rR7fxQ"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/demo_youtube_cover.jpg"></a><br><br>
-Click the image to watch the demo video of operating the machine.
+<a href="https://youtu.be/zRAlSpr3_3E"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/demo_youtube_cover.jpg"></a><br><br>
+Click the image to watch the demo video of operating the machine. <br><br>
+
+| Example of a photo inserted                                                                                                                    | Example of an outcome                                                                                                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-your_photo.jpg"> | <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-outcome.jpg"> |
+
 
 
 ### Source Links
 
-Please include links to the tools, sources etc used during the coding. E.g. the resources used for making your coding tool.
+[Touchdesigner](https://derivative.ca/): A free software with certain restrictions such as a resolution and a revenue limit.
 
 # Reflection
 
@@ -185,15 +204,17 @@ You might want to include a section about reflecting on the results of your codi
 
 # Outcomes
 
-This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
+The outcomes of operating this virtual machine will be vary depending on the user's choices. 
+
+| Example outcome 1                                                                                                                        | Example outcome 2                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example1.gif?raw=true"> | <img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example2.gif?raw=true"> |
 
 ### Outcome Links
 
-<a href="">Download the TouchDesigner .toe file</a> which simulates the virtual machine.
+<a href="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/The_Computing_Girls_Today.toe">Download the TouchDesigner .toe file</a> which is the virtual machine created as an outcome of the this research.
 
-Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
 
-This is the main way to access your IMD + Coding outcomes for the semester. So its very important that you check for bugs, troubleshoot hyperlink issues, embedded media issues etc. Please make sure you KNOW where each file you use is stored. E.g. If you migrated from Notion markdown into GitHub, its **VERY IMPORTANT** to know that Notion randomly stores images on an Amazon server. It changes those locations all the time. So if your main outcome or documentation is still grabbing those links, **its very likely** they might disappear before collectives. So please have all media and necessary files managed well in your own locations (online or github etc).
 
 # Conclusion
 
