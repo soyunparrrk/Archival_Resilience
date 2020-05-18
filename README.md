@@ -149,12 +149,10 @@ I've programmed in a node-based software TouchDesigner using a visual language o
 As you see above, TouchDesigner requires wiring operators to make the software you program run. I find the visual representation of connecting parts to excecute the program is very similar to the physical parts being connected at the ARRA machine with wires and electrictity.
 
 ### Tools
-<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif">
-
+<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif"></a>
 **The Computing Girls Today**, a virtual machine programmed and visualised in TouchDesigner. <br><br>
 
 <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg"></a>
-
 **Introduction message in Python:**
 
 > Welcome to The Computing Girls Today!
@@ -182,7 +180,6 @@ As you see above, TouchDesigner requires wiring operators to make the software y
 The UI includes 3 parameters that user can manipulate. Wind Horizontal, Wind Vertical and Shake. The Reset button will clear the previous effect. All of them simulates physical manipulation to the input photo.
 <br><br>
 <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg"></a>
-
 **Inside the UI**: the three parameters
 
 | Zoom into one of the parameters                                                                                                  | The logic and math inside of the parameter                                                                                       |
@@ -191,8 +188,8 @@ The UI includes 3 parameters that user can manipulate. Wind Horizontal, Wind Ver
 
 ### Results
 
-<a href="https://youtu.be/zRAlSpr3_3E"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/demo_youtube_cover.jpg"></a><br><br>
-Click the image to watch the demo video of operating the machine. <br><br>
+<a href="https://youtu.be/zRAlSpr3_3E"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/demo_youtube_cover.jpg"></a>
+Click the image to watch the demo video of operating the machine. (YouTube) <br><br>
 
 | Example of a photo inserted                                                                                                                    | Example of an outcome                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -205,16 +202,26 @@ Click the image to watch the demo video of operating the machine. <br><br>
 [Touchdesigner](https://derivative.ca/): A free software with certain restrictions such as a resolution and a revenue limit.
 
 # Reflection
+**Things that I'm happy with:**
+1. Managed to build the working software with an easily interpretable UI.
+2. With the process above, I've learnt the logics of how programs can be built in an efficient and productive structure.
+3. Made a personal, meaningful journey throughout the research learning the important history which is very relavant to myself.
+4. Learnt to write an understandable and well-structured documentation for anyone to freely access.
 
-You might want to include a section about reflecting on the results of your coding and IMD experiments this semester. It can give additional context before reading the final outcomes below.
+
+**Things could have been improved:**
+1. I believe that re-building the operative machine as a female programmer myself adds a reflection of this research to the project. However, I also think I could have found more connection to the history and applied to the outcome — for example — the way of image processing, the way of representing the software, the way of wiring operators.
+2. Although TouchDesigner is free to download, it's not as accessible as web.
+
 
 # Outcomes
 
 The outcomes of operating this virtual machine will be vary depending on the user's choices. 
+Here there are two examples from the photos of ARRA and the computing girls.
 
 | Example outcome 1                                                                                                                        | Example outcome 2                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example1.gif?raw=true"> | <img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example2.gif?raw=true"> |
+| <a href="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example1.gif"><img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example1.gif?raw=true"></a> | <a href="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example2.gif"><img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example2.gif?raw=true"></a> |
 
 ### Outcome Links
 
@@ -225,7 +232,7 @@ Download the TouchDesigner .toe file, a virtual machine created as an outcome of
 
 
 # Conclusion
-
+To be updated
 
 
 ## Bibliography
