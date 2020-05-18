@@ -126,13 +126,15 @@ Despite the effort of programmers and creators, unfortunately, the ARRA I couldn
 This process of ARRA's short life and death made me think of the ephemeral history of women in computation being left only as a short period for a long time until now.
 
 Looking at the photograph of the huge machine that this programmer is checking an outcome from, I thought, what if, I build the ARRA again, as a female programmer myself. What if I program it to work as a revival of the historical moment — preserving the important visual form of the photograph, which depicts a woman next to a machine. 
-<img src="">
+
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA2.jpeg">
 
 ### Aims
 
 The ARRA contained 1200 relays connected at the back of the machine. Also, with drum memory it could execute the 16 coded instructions. It was able to represent binary numbers as decimal, using a paper punch tap reader and a teleprinter as input and output. 
 
 For this transcoding, I aimed to recreate the machine  for today. It will enable image processing that users can insert their photos and make outputs by manipulating the images themselves. The way of image processing will reflect my whole research through this subject. By users re-creating their own images and videos digitally sorting pixels and pixels, I wish it continues to live for proliferation.
+
 
 ### Methods
 
