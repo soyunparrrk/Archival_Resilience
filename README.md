@@ -40,10 +40,10 @@ In 1960, the proportion of women in computing and mathematical professions was 2
 
 Eddy Alleda, Dineke Botterweg, Ria Debets, Marijke de Jong, Bertha Haanappel, Emmy Hagenaar, Truus Hurts, Loes Kaarsenmaker, Corrie Langereis, Reina Mulder, Diny Postema and Trees Scheffer formed a group called the Computing Girls in the Netherlands. [2](#bibliography) As they had completed high school with high grades in mathematics, they were considered suitable for computation works.
 
-<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg">
+<a href="http://www-set.win.tue.nl/UnsungHeroes/heroes/computing-girls.html"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg">
 </a>
 
-Some of the Computing Girls at a reunion in 1986. From left to right: Truus Hurts, Dineke Botterweg, Bertha Haanappel, Eddy Alleda
+**Some of the Computing Girls at a reunion in 1986. From left to right: Truus Hurts, Dineke Botterweg, Bertha Haanappel, Eddy Alleda**
 
 They worked at the Mathematical centre programming early Dutch computers such as ARRA and ARRA II from 1954, guided by Van Wijngaarden who contracted them. Even though they were one of the pioneers of the present computer situation, due to their family forming and to devote to it they didn't use their knowledge in computer science anymore, except Eddy Alleda who worked as a math teacher later on. 
 
@@ -174,7 +174,6 @@ As you see above, TouchDesigner requires wiring operators to make the software y
 
 <br>
 <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"></a>
-
 **The UI of the machine**
 
 The UI includes 3 parameters that user can manipulate. Wind Horizontal, Wind Vertical and Shake. The Reset button will clear the previous effect. All of them simulates physical manipulation to the input photo.
