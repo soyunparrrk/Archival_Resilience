@@ -7,7 +7,7 @@
 2. [Research](#research)
 3. [Transcoding](#transcoding)
     1. Transcoding 1: Lossless Compression
-    2. Transcoding Tool: ARRA Today
+    2. Transcoding Tool: The Machine of the Computing Girls Today
 4. [Reflection](#reflection)
 5. [Outcome](#outcome)
 6. [Conclusion](#conclusion)
@@ -96,12 +96,9 @@ The demonstration of RLE compression in real life <br>
 ### Tools
 I've used two existing tools for this, the first one is Image → Binary, the other one is Binary → Image.
 
-<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/Untitled%201.png" width=50%>
-(1) [https://www.dcode.fr/binary-image](https://www.dcode.fr/binary-image)
-
-<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/Untitled%202.png">
-
-(2) [https://onlinebinarytools.com/convert-binary-to-image](https://onlinebinarytools.com/convert-binary-to-image)
+| (1) [https://www.dcode.fr/binary-image](https://www.dcode.fr/binary-image)                                                            | (2) [https://onlinebinarytools.com/convert-binary-to-image](https://onlinebinarytools.com/convert-binary-to-image)                    |
+|:---------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/Untitled%201.png"> | <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/Untitled%202.png"> |
 
 ### Results
 
@@ -120,7 +117,7 @@ Several personal decisions had been made in this process.
 3. Binary characters to display.
 
 
-## Transcoding Tool: ARRA Today
+## Transcoding Tool: The Machine of the Computing Girls Today
 
 ### Description
 
@@ -135,21 +132,46 @@ Looking at the photograph of the huge machine that this programmer is checking a
 
 The ARRA contained 1200 relays connected at the back of the machine. Also, with drum memory it could execute the 16 coded instructions. It was able to represent binary numbers as decimal, using a paper punch tap reader and a teleprinter as input and output. 
 
-For this transcoding, I aimed to recreate the ARRA  for today. It will enable image processing that users can insert their photos and make outputs by manipulating the images themselves. The way of image processing will reflect my whole research through this subject. By users re-creating their own images and videos digitally sorting pixels and pixels, I wish it continues to live for proliferation.
+For this transcoding, I aimed to recreate the machine  for today. It will enable image processing that users can insert their photos and make outputs by manipulating the images themselves. The way of image processing will reflect my whole research through this subject. By users re-creating their own images and videos digitally sorting pixels and pixels, I wish it continues to live for proliferation.
 
 ### Methods
 
-I've programmed in a node-based software TouchDesigner using a visual language of wiring, connecting from commands to commands.<br>
-<img src="The%2520Computing%2520Girls%2520Today/TD-example.jpg"><br>
+I've programmed in a node-based software TouchDesigner using a visual language of wiring, connecting from commands to commands.<br><br>
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-example.jpg"><br><br>
 As you see above, TouchDesigner requires wiring operators to make the software you program run. I find the visual representation of connecting parts to excecute the program is very similar to the physical parts being connected at the ARRA machine with wires and electrictity.
 
 ### Tools
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif">
 
+**The Computing Girls Today**, a virtual machine programmed and visualised in TouchDesigner. <br><br>
+
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg">
+
+**Introduction message in Python:**
+
+> Welcome to The Computing Girls Today!
+
+> This digital machine is programmed to revive the ARRA,  the first computer invented in NL and its programmers Who were called 'computing girls'.
+
+> ARRA couldn't live long as a functional machine,
+> same as the 'computing girls' who had to quit their jobs as a programmer to devote their life to their family. 
+
+> By you recreating your photo with this machine,
+> I wish this machine continues to live for proliferation.
+
+> You can give the photograph wind from different sides,
+> and also shake it.
+
+> Change the slider of the UI and see the result on the right.
+> Understand the process behind it. 
+> Save, export and share your new photo with your friends!
 
 
 ### Results
 
-The coding tool will vary a lot between different students. So depending on the use and type, you may include more or less documentation here.
+<a href="https://youtu.be/qLSy3rR7fxQ"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/demo_youtube_cover.jpg"></a><br><br>
+Click the image to watch the demo video of operating the machine.
+
 
 ### Source Links
 
@@ -164,6 +186,8 @@ You might want to include a section about reflecting on the results of your codi
 This section will be different for each student, depending on how and what is formatted as a final result for the semester assignment. Nevertheless a clear written and documented outcomes is important. So give the appropriate subsections or formats to make this as thorough as possible.
 
 ### Outcome Links
+
+<a href="">Download the TouchDesigner .toe file</a> which simulates the virtual machine.
 
 Here you link to your final assignment outcomes. This could be a website, a video, etc etc. Please include links to the appropriate GitHub folder on your repository where your coding tool is stored.
 
