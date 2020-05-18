@@ -198,7 +198,7 @@ Click the image to watch the demo video of operating the machine. (YouTube) <br>
 
 ### Source Links
 
-[Touchdesigner](https://derivative.ca/): A free software with certain restrictions such as a resolution and a revenue limit.
+[TouchDesigner](https://derivative.ca/): A free software for both Windows and Mac with certain restrictions such as a resolution and a revenue limit.
 
 # Reflection
 **Things that I'm happy with:**
@@ -209,14 +209,15 @@ Click the image to watch the demo video of operating the machine. (YouTube) <br>
 
 
 **Things could have been improved:**
-1. I believe that re-building the operative machine as a female programmer myself adds a reflection of this research to the project. However, I also think I could have found more connection to the history and applied to the outcome — for example — the way of image processing, the way of representing the software, the way of wiring operators.
-2. Although TouchDesigner is free to download, it's not as accessible as web.
+1. I believe that re-building the operative machine as a female programmer myself adds a reflection of this research to the project. However, I also think I could have found more connection to the history and applied to the outcome.
+2. To improve the part above, it could have been a performance that myself operating the machine interacting with the audiences. I find it very pity not being able to do so due to the current COVID-19 situation.
+3. Although TouchDesigner is free to download, it's not as accessible as web.
 
 
 # Outcomes
 
 The outcomes of operating this virtual machine will be vary depending on the user's choices. 
-Here there are two examples from the photos of ARRA and the computing girls.
+Here there are two examples from the photos of ARRA and the Computing Girls.
 
 | Example outcome 1                                                                                                                        | Example outcome 2                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
