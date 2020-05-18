@@ -134,13 +134,18 @@ Looking at the photograph of the huge machine that this programmer is checking a
 
 The ARRA contained 1200 relays connected at the back of the machine. Also, with drum memory it could execute the 16 coded instructions. It was able to represent binary numbers as decimal, using a paper punch tap reader and a teleprinter as input and output. 
 
-For this transcoding, I aimed to recreate the machine  for today. It will enable image processing that users can insert their photos and make outputs by manipulating the images themselves. The way of image processing will reflect my whole research through this subject. By users re-creating their own images and videos digitally sorting pixels and pixels, I wish it continues to live for proliferation.
+For this transcoding, I aimed to recreate the machine  for today. 
+1. It will enable image processing that users can insert their photos and make outputs by manipulating the images themselves. 
+2. The way of image processing will reflect my whole research for this subject. 
+3. By users re-creating their own images and videos digitally sorting pixels and pixels, I wish it continues to live for proliferation.
 
 
 ### Methods
 
 I've programmed in a node-based software TouchDesigner using a visual language of wiring, connecting from commands to commands.<br><br>
-<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-example.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-example.jpg"></a><br><br>
+<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-example.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-example.jpg"></a>
+**An example of operating TouchDesigner**
+<br><br>
 As you see above, TouchDesigner requires wiring operators to make the software you program run. I find the visual representation of connecting parts to excecute the program is very similar to the physical parts being connected at the ARRA machine with wires and electrictity.
 
 ### Tools
@@ -153,30 +158,31 @@ As you see above, TouchDesigner requires wiring operators to make the software y
 **Introduction message in Python:**
 
 > Welcome to The Computing Girls Today!
-
+>
 > This digital machine is programmed to revive the ARRA,  the first computer invented in NL and its programmers Who were called 'computing girls'.
-
+>
 > ARRA couldn't live long as a functional machine,
 > same as the 'computing girls' who had to quit their jobs as a programmer to devote their life to their family. 
-
+>
 > By you recreating your photo with this machine,
 > I wish this machine continues to live for proliferation.
-
+>
 > You can give the photograph wind from different sides,
 > and also shake it.
-
+>
 > Change the slider of the UI and see the result on the right.
 > Understand the process behind it. 
 > Save, export and share your new photo with your friends!
 
 <br>
-<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"></a><br><br>
+<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"></a>
+
 **The UI of the machine**
 
 The UI includes 3 parameters that user can manipulate. Wind Horizontal, Wind Vertical and Shake. The Reset button will clear the previous effect. All of them simulates physical manipulation to the input photo.
 <br><br>
 <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg"></a>
-<br><br>
+
 **Inside the UI**: the three parameters
 
 | Zoom into one of the parameters                                                                                                  | The logic and math inside of the parameter                                                                                       |
@@ -190,7 +196,7 @@ Click the image to watch the demo video of operating the machine. <br><br>
 
 | Example of a photo inserted                                                                                                                    | Example of an outcome                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-your_photo.jpg"> | <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-outcome.jpg"> |
+| <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-your_photo.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-your_photo.jpg"></a>| <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-outcome.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-outcome.jpg"></a> |
 
 
 
@@ -212,14 +218,17 @@ The outcomes of operating this virtual machine will be vary depending on the use
 
 ### Outcome Links
 
-<a href="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/The_Computing_Girls_Today.toe">Download the TouchDesigner .toe file</a> which is the virtual machine created as an outcome of the this research.
+<a href="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/The_Computing_Girls_Today.toe"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/toe.jpg"></a><br><br>
+
+Download the TouchDesigner .toe file, a virtual machine created as an outcome of the this research.
 
 
 
 # Conclusion
 
-You might have a nice conclusive observation to share at the end :)
+
 
 ## Bibliography
+**[1]**: Thompson, Clive. “The Secret History of Women in Coding.” The New York Times, The New York Times, 13 Feb. 2019, [www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html](www.nytimes.com/2019/02/13/magazine/women-coding-computer-programming.html).
 
-**[1]**: “Unsung Heroes in Dutch Computing History.” "Computing Girls" | Unsung Heroes in Dutch Computing History, [www-set.win.tue.nl/UnsungHeroes/heroes/computing-girls.html](http://www-set.win.tue.nl/UnsungHeroes/heroes/computing-girls.html).
+**[2]**: “Unsung Heroes in Dutch Computing History.” "Computing Girls" | Unsung Heroes in Dutch Computing History, [www-set.win.tue.nl/UnsungHeroes/heroes/computing-girls.html](http://www-set.win.tue.nl/UnsungHeroes/heroes/computing-girls.html).
