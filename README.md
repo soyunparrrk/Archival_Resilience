@@ -13,7 +13,7 @@
 6. [Conclusion](#conclusion)
 7. [Bibliography](#bibliography)
 
-# Artefact
+## Artefact
 
 Taken in 1952 June, the Artefact is a photograph depicting a woman investigating data coming out of ARRA, the oldest computer known in The Netherlands. 
 
@@ -29,7 +29,7 @@ Taken in 1952 June, the Artefact is a photograph depicting a woman investigating
 | <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg"></a>| A black and white photograph of a woman in white blouse and dotted A-shaped skirt is looking at paper with data coming out of the first Dutch programmable computer: the 'ARRA', Automatic Relay Calculator Amsterdam in the Mathematical Center. |
 
 
-# Research
+## Research
 ## The History of Women in Coding
 
 When one of the first computers in the human history were being operated during World War II, coding and programming were known as the work for people who possesses 'picky and precise' mentality. [1](#bibliography) Unlike the stereotypes of programmers in the current society, back then these people were assumed to be women. While it wasn't high-status work yet, the women were involved in mathematical calculations to execute instructions which we can define it as 'programming' in these current times. 
@@ -75,7 +75,7 @@ Since the artefact is a little sheet of physical photograph, first I looked into
 
 A sketch for understanding the process of taking photographs and turning them into digital files.
 
-# Transcoding
+## Transcoding
 
 How do I bring this artefact to today upholding the historical discourses around it and reflecting a creative interpretation as a designer?
 
@@ -200,7 +200,7 @@ Click the image to watch the demo video of operating the machine. (YouTube) <br>
 
 [TouchDesigner](https://derivative.ca/): A free software for both Windows and Mac with certain restrictions such as a resolution and a revenue limit.
 
-# Reflection
+## Reflection
 **Things that I'm happy with:**
 1. Managed to build the working software with an easily interpretable UI.
 2. With the process above, I've learnt the logics of how programs can be built in an efficient and productive structure.
@@ -214,7 +214,7 @@ Click the image to watch the demo video of operating the machine. (YouTube) <br>
 3. Although TouchDesigner is free to download, it's not as accessible as web.
 
 
-# Outcomes
+## Outcomes
 
 The outcomes of operating this virtual machine will be vary depending on the user's choices. 
 Here there are two examples from the photos of ARRA and the Computing Girls.
@@ -231,7 +231,7 @@ Download the TouchDesigner .toe file, a virtual machine created as an outcome of
 
 
 
-# Conclusion
+## Conclusion
 To be updated
 
 
