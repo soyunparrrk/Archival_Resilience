@@ -26,7 +26,7 @@ Taken in 1952 June, the Artefact is a photograph depicting a woman investigating
 | Medium                                                                                                                         | Photograph                                                                                                                                                                                                                                        |
 | Materials                                                                                                                      | Photo Paper                                                                                                                                                                                                                                       |
 | Date                                                                                                                           | 1952, 18 June                                                                                                                                                                                                                                     |
-| <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg"></a>| A black and white photograph of a woman in white blouse and dotted A-shaped skirt is looking at paper with data coming out of the first Dutch programmable computer: the 'ARRA', Automatic Relay Calculator Amsterdam in the Mathematical Center. |
+| <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/ARRA.jpg">| A black and white photograph of a woman in white blouse and dotted A-shaped skirt is looking at paper with data coming out of the first Dutch programmable computer: the 'ARRA', Automatic Relay Calculator Amsterdam in the Mathematical Center. |
 
 
 ## Research
@@ -40,8 +40,8 @@ In 1960, the proportion of women in computing and mathematical professions was 2
 
 Eddy Alleda, Dineke Botterweg, Ria Debets, Marijke de Jong, Bertha Haanappel, Emmy Hagenaar, Truus Hurts, Loes Kaarsenmaker, Corrie Langereis, Reina Mulder, Diny Postema and Trees Scheffer formed a group called the Computing Girls in the Netherlands. [2](#bibliography) As they had completed high school with high grades in mathematics, they were considered suitable for computation works.
 
-<a href="http://www-set.win.tue.nl/UnsungHeroes/heroes/computing-girls.html"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg">
-</a>
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/computinggirls-1986.jpg">
+
 
 **Some of the Computing Girls at a reunion in 1986. From left to right: Truus Hurts, Dineke Botterweg, Bertha Haanappel, Eddy Alleda**
 
@@ -149,10 +149,9 @@ I've programmed in a node-based software TouchDesigner using a visual language o
 As you see above, TouchDesigner requires wiring operators to make the software you program run. I find the visual representation of connecting parts to excecute the program is very similar to the physical parts being connected at the ARRA machine with wires and electrictity.
 
 ### Tools
-<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif"></a>
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/the_computing_girls_today.gif">
 **The Computing Girls Today**, a virtual machine programmed and visualised in TouchDesigner. <br><br>
-
-<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg"></a>
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/machine_intro.jpg">
 **Introduction message in Python:**
 
 > Welcome to The Computing Girls Today!
@@ -173,17 +172,17 @@ As you see above, TouchDesigner requires wiring operators to make the software y
 > Save, export and share your new photo with your friends!
 
 <br>
-<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg"></a>
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI.jpg">
 **The UI of the machine**
 
 The UI includes 3 parameters that user can manipulate. Wind Horizontal, Wind Vertical and Shake. The Reset button will clear the previous effect. All of them simulates physical manipulation to the input photo.
 <br><br>
-<a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg"></a>
+<img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-2.jpg">
 **Inside the UI**: the three parameters
 
 | Zoom into one of the parameters                                                                                                  | The logic and math inside of the parameter                                                                                       |
 |----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-3.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-3.jpg"></a> | <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-4.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-4.jpg"></a> |
+| <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-3.jpg"> | <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-UI-4.jpg"> |
 
 ### Results
 
@@ -192,7 +191,7 @@ Click the image to watch the demo video of operating the machine. (YouTube) <br>
 
 | Example of a photo inserted                                                                                                                    | Example of an outcome                                                                                                                             |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-your_photo.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-your_photo.jpg"></a>| <a href="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-outcome.jpg"><img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-outcome.jpg"></a> |
+| <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-your_photo.jpg"> | <img src="https://raw.githubusercontent.com/soyunparrrk/Archival_Resilience/master/The%20Computing%20Girls%20Today/TD-outcome.jpg"> |
 
 
 
@@ -221,7 +220,7 @@ Here there are two examples from the photos of ARRA and the Computing Girls.
 
 | Example outcome 1                                                                                                                        | Example outcome 2                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| <a href="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example1.gif"><img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example1.gif?raw=true"></a> | <a href="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example2.gif"><img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example2.gif?raw=true"></a> |
+| <img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example1.gif?raw=true"> | <img src="https://github.com/soyunparrrk/Archival_Resilience/blob/master/The%20Computing%20Girls%20Today/outcome_example2.gif?raw=true"> |
 
 ### Outcome Links
 
@@ -232,7 +231,7 @@ Download the TouchDesigner .toe file, a virtual machine created as an outcome of
 
 
 ## Conclusion
-To be updated
+
 
 
 ## Bibliography
